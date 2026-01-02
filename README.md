@@ -73,11 +73,18 @@ I’m especially interested in AI-augmented backend systems—where LLMs support
 
 ### 😉 &nbsp; More About Me
 🚀 Passionate Software Engineer | Backend & Distributed Systems Builder
+
 📚 Master’s in Computer Science | Strong foundation in system design, scalability, and performance
+
 🧠 Backend & Systems Enthusiast | Focused on distributed systems, microservices architecture, and data-driven system design
+
 ⚙️ Enjoy building reliable, high-performance backend systems, optimizing throughput, reducing latency, and making services scale gracefully under real-world load
+
 🗄️ Strong interest in database modeling, data consistency, caching strategies, and API design—because good systems start with solid data foundations
+
 🤖 Exploring how AI, LLMs, and intelligent automation can be integrated into production systems to enhance decision-making and user experience
+
 🌐 Open to collaborations on backend-heavy, system design–focused projects and building software that’s not just smart, but robust, scalable, and impactful
+
 - 📫 How to reach me: &nbsp; [<img align = "center" alt="Dev Patel | LinkedIn" height="30px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png"/>](https://www.linkedin.com/in/dev-p-patel/) &nbsp; &nbsp; [<img align = "center" alt=" Dev Patel | Mail" height="30px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png"/>](mailto:devsp08@gmail.com) &nbsp;
 
