@@ -72,27 +72,12 @@ I’m especially interested in AI-augmented backend systems—where LLMs support
 [![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)](https://www.jetbrains.com/idea/)
 
 ### 😉 &nbsp; More About Me
+🚀 Passionate Software Engineer | Backend & Distributed Systems Builder
+📚 Master’s in Computer Science | Strong foundation in system design, scalability, and performance
+🧠 Backend & Systems Enthusiast | Focused on distributed systems, microservices architecture, and data-driven system design
+⚙️ Enjoy building reliable, high-performance backend systems, optimizing throughput, reducing latency, and making services scale gracefully under real-world load
+🗄️ Strong interest in database modeling, data consistency, caching strategies, and API design—because good systems start with solid data foundations
+🤖 Exploring how AI, LLMs, and intelligent automation can be integrated into production systems to enhance decision-making and user experience
+🌐 Open to collaborations on backend-heavy, system design–focused projects and building software that’s not just smart, but robust, scalable, and impactful
+- 📫 How to reach me: &nbsp; [<img align = "center" alt="Dev Patel | LinkedIn" height="30px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png"/>](https://www.linkedin.com/in/dev-p-patel/) &nbsp; &nbsp; [<img align = "center" alt=" Dev Patel | Mail" height="30px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png"/>](mailto:devsp08@gmail.com) &nbsp;
 
-- 🚀 Passionate AI/NLP Researcher | Data Scientist | Aspiring LLM Scientist
-- 📚 Master's in Computer Science @ Arizona State University | GPA 4.0: Nerd alert? Perhaps. 
-- 🧠 NLP Enthusiast | Specializing in Logical Reasoning, LLM Evaluation, and LLM Improvment.
-- 📈 Published in ACL, EMNLP, IEEE | 470+ Citations: You could say I’m pretty popular… among researchers for citations, atleast.
-- 💡 Innovator in Deep Learning, Federated Learning, and Privacy-Preserving AI: I’m the guy who makes sure your AI doesn’t spill secrets.
-- 🤖 Building intelligent systems for the future, one model at a time: Because creating sentient AI to conquer mundane tasks.
-- 🌐 Open to collaborations on AI-driven solutions and research opportunities: Let’s build something that’ll make even the robots say, "Wow, didn’t see that coming."
-- 📫 How to reach me: &nbsp; [<img align = "center" alt="Nisarg Patel | LinkedIn" height="30px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png"/>](https://www.linkedin.com/in/nisarg-p-patel/) &nbsp; &nbsp; [<img align = "center" alt="Nisarg Patel | Mail" height="30px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png"/>](mailto:nppatel7@asu.com) &nbsp;
- 
-<p> <img src="https://komarev.com/ghpvc/?username=nisarg-p-patel&label=Profile%20views&color=0e75b6&style=flat" alt="Nisarg Patel" /></p>
-
-
-<div align="center">
-  <h4> 
-    👉 Happy Learning 👈 
-  </h4>
-</div>
-<p align="center">
-  <a href="https://github.com/Nisarg-P-Patel">
-    <img height="250em" src="https://github-readme-stats.vercel.app/api?username=Nisarg-P-Patel&show_icons=true&theme=radical&rank_icon=github"/><br>
-    <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nisarg-P-Patel&theme=radical&hide_border=true&langs_count=10&layout=compact&card_width=250&border_radius=12&custom_title=Top%20Languages"/>
-  </a>
-</p>
