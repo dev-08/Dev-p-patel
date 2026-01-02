@@ -7,6 +7,7 @@ I’m especially interested in AI-augmented backend systems—where LLMs support
 
 ### Tech Stack that I am familiar with
 🚀 Programming Languages
+
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.cppreference.com/w/c)
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://en.cppreference.com/w/)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
@@ -16,8 +17,8 @@ I’m especially interested in AI-augmented backend systems—where LLMs support
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
-
 🧩 Frameworks & Libraries
+
 [![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://learn.microsoft.com/aspnet/)
 [![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://learn.microsoft.com/dotnet/core/)
 [![.NET Aspire](https://img.shields.io/badge/.NET%20Aspire-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://learn.microsoft.com/dotnet/aspire/)
@@ -25,8 +26,8 @@ I’m especially interested in AI-augmented backend systems—where LLMs support
 [![Spring MVC](https://img.shields.io/badge/Spring%20MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/projects/spring-framework)
 [![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)](https://learn.microsoft.com/aspnet/core/blazor/)
 [![MudBlazor](https://img.shields.io/badge/MudBlazor-593196?style=for-the-badge&logo=dotnet&logoColor=white)](https://mudblazor.com/)
-
 🔐 Authentication
+
 [![Azure AD](https://img.shields.io/badge/Azure%20AD-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/azure/active-directory/)
 [![OpenID Connect](https://img.shields.io/badge/OpenID%20Connect-F78C40?style=for-the-badge&logo=openid&logoColor=white)](https://openid.net/connect/)
 [![OAuth2](https://img.shields.io/badge/OAuth2-3C3C3D?style=for-the-badge&logo=oauth&logoColor=white)](https://oauth.net/2/)
