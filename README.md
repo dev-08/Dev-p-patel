@@ -6,30 +6,14 @@ I'm **[Dev Patel](https://github.com/dev-08)**, I’m Dev Patel — a Software E
 I’m especially interested in AI-augmented backend systems—where LLMs support decision-making, data pipelines scale gracefully, and microservices remain fault-tolerant and observable. Because great software shouldn’t just be intelligent — it should be reliable, scalable, and fun to build.If it involves distributed coordination, system design, or blending AI into production systems, chances are I’m excited about it.
 
 ### Tech Stack that I am familiar with
-<!-- Python -->
 [![Python Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)](https://www.python.org/)
-
 [![.NET Badge](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://learn.microsoft.com/dotnet/)
-
-<!-- C# -->
 [![C# Badge](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)](https://learn.microsoft.com/dotnet/csharp/)
-
-<!-- Java -->
 [![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
-
-<!-- Spring Framework -->
 [![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/projects/spring-framework)
-
-<!-- Spring Boot -->
 [![Spring Boot Badge](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
-
-<!-- Azure -->
 [![Azure Badge](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/azure/)
-
-<!-- Azure DevOps -->
 [![Azure DevOps Badge](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)](https://learn.microsoft.com/azure/devops/)
-
-<!-- Azure Pipelines -->
 [![Azure Pipelines Badge](https://img.shields.io/badge/Azure%20Pipelines-2560E0?style=for-the-badge&logo=azurepipelines&logoColor=white)](https://learn.microsoft.com/azure/devops/pipelines/)
 
 ![Azure Pipelines](https://img.shields.io/badge/Azure%20Pipelines-2560E0?style=for-the-badge&logo=azurepipelines&logoColor=white)
